@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3a5b1de12b517b74ab9e6aca0e3a9e01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raleway-v4020
+  fontNames:
+  - Raleway-v4020
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d9fcfff0216417b4889521384e65c5c9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Monster
+  - EntityHitbox
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - GroundLayer
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2032978147
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Horizon
+    uniqueID: 884279049
+    locked: 0
+  - name: Platforms
+    uniqueID: 1179688983
+    locked: 0
+  - name: Entity
+    uniqueID: 2937833581
+    locked: 0
+  - name: HUD
+    uniqueID: 1513098189
+    locked: 0
+  - name: GUI
+    uniqueID: 3851331977
+    locked: 0
